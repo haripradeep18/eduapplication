@@ -1,8 +1,8 @@
 # School Management System (Enterprise Edition)
 Another School Management System build with laravel and PHP 7.
 
-# Discussion Chanel
-[You can join here](https://discord.gg/XsZzvDw)
+# Join Our Discord Server
+:mega:[CloudSchool](https://discord.gg/7rXyuu8):mega:
 
 # Features
 |   Community Edition   |   Enterprise Edition   |
