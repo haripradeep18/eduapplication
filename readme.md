@@ -77,4 +77,4 @@ password: demo123
 
 # License
 
-SMS EE is licensed under proprietary license. Frameworks and libraries has it own licensed
+SMS EE is licensed under custom permissive license. Frameworks and libraries has it own licensed.
